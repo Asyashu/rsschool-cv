@@ -24,4 +24,4 @@ function truncate(str, maxlength) {
 # **Education**
 * Belarusian State Technological University
 # **Languages**
-* English - A2
+* English - В1
